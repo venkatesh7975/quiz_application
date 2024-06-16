@@ -1,3 +1,6 @@
+/* styles.css */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
 .fullscreen-prompt {
   position: fixed;
   top: 0;

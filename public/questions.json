@@ -1,14 +1,52 @@
 [
-    {
-      "question": "What is the capital of France?",
-      "options": ["Paris", "London", "Berlin", "Madrid"],
-      "answer": "Paris"
-    },
-    {
-      "question": "Which planet is known as the Red Planet?",
-      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
-      "answer": "Mars"
-    }
-  
-  ]
-  
+  {
+    "question": "What is Next.js primarily used for?",
+    "options": ["Server-side rendering", "Mobile app development", "Database management", "API development"],
+    "answer": "Server-side rendering"
+  },
+  {
+    "question": "Which hook is used to manage state in a functional component in React?",
+    "options": ["useState", "useEffect", "useContext", "useRef"],
+    "answer": "useState"
+  },
+  {
+    "question": "What is the main purpose of Node.js?",
+    "options": ["To create web pages", "To handle server-side operations", "To design databases", "To style web applications"],
+    "answer": "To handle server-side operations"
+  },
+  {
+    "question": "Which method is used to parse a JSON string in JavaScript?",
+    "options": ["JSON.stringify()", "JSON.parse()", "JSON.convert()", "JSON.decode()"],
+    "answer": "JSON.parse()"
+  },
+  {
+    "question": "What does the 'M' in the MERN stack stand for?",
+    "options": ["MongoDB", "MySQL", "Mongoose", "Microsoft SQL Server"],
+    "answer": "MongoDB"
+  },
+  {
+    "question": "Which SQL command is used to update data in a database?",
+    "options": ["UPDATE", "INSERT", "DELETE", "SELECT"],
+    "answer": "UPDATE"
+  },
+  {
+    "question": "How do you create a context in React?",
+    "options": ["React.createContext()", "React.createElement()", "React.useContext()", "React.createRef()"],
+    "answer": "React.createContext()"
+  },
+  {
+    "question": "In Node.js, which module is used to create a web server?",
+    "options": ["http", "fs", "path", "url"],
+    "answer": "http"
+  },
+  {
+    "question": "Which lifecycle method is invoked after a component is rendered in React?",
+    "options": ["componentDidMount", "componentWillMount", "componentDidUpdate", "componentWillUnmount"],
+    "answer": "componentDidMount"
+  },
+  {
+    "question": "Which SQL clause is used to filter records?",
+    "options": ["WHERE", "ORDER BY", "GROUP BY", "HAVING"],
+    "answer": "WHERE"
+  }
+]
